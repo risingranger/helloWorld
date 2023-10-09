@@ -1,2 +1,4 @@
 # helloWorld
-This is a test program 
+
+This is a test program.
+This repository consists of various java programs.
